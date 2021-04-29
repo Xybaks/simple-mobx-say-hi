@@ -1,0 +1,22 @@
+.myInput {
+  display: flex;
+  flex-direction:row;
+  .myErr{
+    padding-right: 10px;
+    color: #ec8c6e;
+  }
+  input {
+    text-align: center;
+    color: #101010;
+    background-color: #fddbbf;
+    font-style: italic;;
+  }
+
+  input[type="search"]::-webkit-input-placeholder {
+    color: whitesmoke;
+  }
+
+  input[type="search"]::-moz-placeholder {
+    color: whitesmoke;
+  }
+}
