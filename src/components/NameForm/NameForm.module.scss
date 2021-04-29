@@ -1,6 +1,7 @@
 .myInput {
   display: flex;
   flex-direction:row;
+  margin-bottom: 10px;
   .myErr{
     padding-right: 10px;
     color: #ec8c6e;
@@ -9,7 +10,9 @@
     text-align: center;
     color: #101010;
     background-color: #fddbbf;
-    font-style: italic;;
+    font-style: italic;
+    width: 40vh;
+    font-size: 14px+2;
   }
 
   input[type="search"]::-webkit-input-placeholder {
