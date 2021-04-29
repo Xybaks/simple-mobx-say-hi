@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/simple-mobx-say-hi/static/css/main.0fab9f0f.chunk.css",
+    "main.js": "/simple-mobx-say-hi/static/js/main.25074f52.chunk.js",
+    "main.js.map": "/simple-mobx-say-hi/static/js/main.25074f52.chunk.js.map",
+    "runtime-main.js": "/simple-mobx-say-hi/static/js/runtime-main.32cc286b.js",
+    "runtime-main.js.map": "/simple-mobx-say-hi/static/js/runtime-main.32cc286b.js.map",
+    "static/js/2.c9a5c485.chunk.js": "/simple-mobx-say-hi/static/js/2.c9a5c485.chunk.js",
+    "static/js/2.c9a5c485.chunk.js.map": "/simple-mobx-say-hi/static/js/2.c9a5c485.chunk.js.map",
+    "static/js/3.2e5cbbc9.chunk.js": "/simple-mobx-say-hi/static/js/3.2e5cbbc9.chunk.js",
+    "static/js/3.2e5cbbc9.chunk.js.map": "/simple-mobx-say-hi/static/js/3.2e5cbbc9.chunk.js.map",
+    "index.html": "/simple-mobx-say-hi/index.html",
+    "static/css/main.0fab9f0f.chunk.css.map": "/simple-mobx-say-hi/static/css/main.0fab9f0f.chunk.css.map",
+    "static/js/2.c9a5c485.chunk.js.LICENSE.txt": "/simple-mobx-say-hi/static/js/2.c9a5c485.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.32cc286b.js",
+    "static/js/2.c9a5c485.chunk.js",
+    "static/css/main.0fab9f0f.chunk.css",
+    "static/js/main.25074f52.chunk.js"
+  ]
+}
